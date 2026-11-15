@@ -1,0 +1,6 @@
+# The Python pipeline and its inputs are not part of the deployed site
+proving_grounds.py
+requirements.txt
+data/
+__pycache__/
+*.pyc
